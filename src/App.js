@@ -78,7 +78,7 @@ const App = ({ signOut }) => {
           />
           <TextField
             name="location"
-            placeholder="Restaurant Location"
+            placeholder="Location"
             label="Restaurant Location"
             labelHidden
             variation="quiet"
